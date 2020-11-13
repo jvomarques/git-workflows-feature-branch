@@ -34,15 +34,11 @@ package br.ufrn.calc.model;
 public class Calculator {
 
     /**
-     * EVOLUÇÃO 1
-     * IMPLEMENTE ESSE MÉTODO
-     *
-     * Implementação Sugerida: return a+b;
      * @param a
      * @param b
      * @return
      */
-    public int sum(int a, int b) { return 0; }
+    public int sum(int a, int b) { return a+b; }
 
 
 

@@ -43,15 +43,11 @@ public class Calculator {
 
 
     /**
-     * EVOLUÇÃO 2
-     * IMPLEMENTE ESSE MÉTODO
-     *
-     * Implementação Sugerida: return a-b;
      * @param a
      * @param b
      * @return
      */
-    public int sub(int a, int b) { return 0; }
+    public int sub(int a, int b) { return a-b; }
 
 
 

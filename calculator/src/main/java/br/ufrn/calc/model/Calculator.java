@@ -61,7 +61,7 @@ public class Calculator {
      * @param b
      * @return
      */
-    public int mult(int a, int b) { return 0; }
+    public int mult(int a, int b) { return a*b; }
 
 
 

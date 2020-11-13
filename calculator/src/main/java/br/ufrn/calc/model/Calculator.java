@@ -53,10 +53,6 @@ public class Calculator {
 
 
     /**
-     * EVOLUÇÃO 3
-     * IMPLEMENTE ESSE MÉTODO
-     *
-     * Implementação Sugerida: return a+*b;
      * @param a
      * @param b
      * @return
@@ -98,15 +94,11 @@ public class Calculator {
 
 
     /**
-     * EVOLUÇÃO 4
-     * IMPLEMENTE ESSE MÉTODO
-     *
-     * Implementação Sugerida: return Math.pow(a, b);
      * @param a
      * @param b
      * @return
      */
-    public double pow(double a, double b) { return 0; }
+    public double pow(double a, double b) { return Math.pow(a, b); }
 
 
 
